@@ -23,7 +23,7 @@ name hashing:
 1 items
 0 -> true
 products:
-47 items
+45 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab10\Ex1$.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab10\Ex1.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab11\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab11\Ex1$.class
@@ -59,10 +59,8 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\Ex1.scal
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\Ex1.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\ex44$.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\ex44.class
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\Ex1$.class
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\Ex1.class
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab7\Ex1$.class
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab7\Ex1.class
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\lab6$.class
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\lab6.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab8\Ex1$.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab8\Ex1.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab9\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab9\Ex1$.class
@@ -72,7 +70,7 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Test.scala ->
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\hpf$.class
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\hpf.class
 binary dependencies:
-66 items
+63 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> C:\Program Files\Java\jre1.8.0_261\lib\rt.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
@@ -124,9 +122,6 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.sc
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Program Files\Java\jre1.8.0_261\lib\rt.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> C:\Program Files\Java\jre1.8.0_261\lib\rt.jar
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> C:\Program Files\Java\jre1.8.0_261\lib\rt.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar
@@ -156,7 +151,7 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-47 items
+45 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> Lab10.Ex1
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> Lab10.Ex1$
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab11\Ex1.scala -> Lab11.Ex1
@@ -192,10 +187,8 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\Ex1.scal
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\Ex1.scala -> Lab5.Ex1$
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> Lab5.ex44
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> Lab5.ex44$
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Lab6.Ex1
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Lab6.Ex1$
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Lab7.Ex1
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Lab7.Ex1$
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Lab6.lab6
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Lab6.lab6$
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> Lab8.Ex1
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> Lab8.Ex1$
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab9\Ex1.scala -> Lab9.Ex1
@@ -205,7 +198,7 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Test.scala ->
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> hpf
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> hpf$
 used names:
-1086 items
+1108 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> <init>
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> <refinement>
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> <repeated>
@@ -1024,84 +1017,106 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.sc
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> universe
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> unobserve
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> ||
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> &&
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> +
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> -
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> <byname>
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> <init>
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> <refinement>
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> <repeated>
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> ==
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> >=
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Any
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> AnyRef
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Apply
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Apply1
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Apply2
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Apply3
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Array
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> AtomicFlip
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Boolean
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> BooleanElement
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Constant
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Double
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Element
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> ElementCollection
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Ex1
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Importance
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Flip
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Function1
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Function2
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Function3
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> If
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Int
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Lab6
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Name
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Nothing
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Object
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> OneTimeProbQuerySampler
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Or
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Predef
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> ProbEvidenceQuery
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> String
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> T
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> T1
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> T2
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> T3
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> U
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Unit
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> Universe
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> _$4
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> algorithm
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> apply
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> atomic
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> com
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> compound
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> cra
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> default
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> discrete
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> error
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> factored
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> figaro
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> firstShot
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> game
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> gameOver
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> games
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> lab6
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> language
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> library
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> matchOver
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP1Games
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP1Points
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP1Sets
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP2Games
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP2Points
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> newP2Sets
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1Games
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1Points
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1Serves
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1Sets
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1WinsGame
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p1WinsPoint
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p2
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p2Games
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p2Points
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p2Sets
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> p2WinsGame
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> pError
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> pWinner
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> play
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> player1
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> points
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> println
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probability
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP1Error
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP1ServeWin
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP1Winner
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP2Error
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP2ServeWin
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> probP2Winner
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> rally
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> sampling
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> scala
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> start
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> test
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> universe
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> <init>
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> <refinement>
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> <repeated>
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Any
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> AnyRef
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Array
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Constant
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Double
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Element
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> ElementCollection
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Ex1
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Importance
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Int
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> sets
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> tennis
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> toBooleanElement
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> unary_!
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> winner
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> wins
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> ||
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Lab7
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Name
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Nothing
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Object
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> OneTimeProbQuerySampler
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Predef
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> ProbEvidenceQuery
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> String
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> T
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Unit
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> Universe
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> _$4
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> algorithm
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> apply
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> com
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> cra
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> default
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> figaro
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> language
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> println
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> probability
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> sampling
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> scala
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> start
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> test
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> universe
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> <init>
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> <refinement>
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> <repeated>
@@ -1293,7 +1308,7 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> v
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> v22
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> ||
 product stamps:
-47 items
+45 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\hpf$.class -> lastModified(1602134800097)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\hpf.class -> lastModified(1602134800095)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab10\Ex1$.class -> lastModified(1602134799889)
@@ -1331,10 +1346,8 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\La
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\Ex1.class -> lastModified(1602134800061)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\ex44$.class -> lastModified(1603962160009)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab5\ex44.class -> lastModified(1603962160008)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\Ex1$.class -> lastModified(1602134800081)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\Ex1.class -> lastModified(1602134800079)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab7\Ex1$.class -> lastModified(1602134800085)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab7\Ex1.class -> lastModified(1602134800083)
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\lab6$.class -> lastModified(1605165040471)
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab6\lab6.class -> lastModified(1605165040467)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab8\Ex1$.class -> lastModified(1602134800088)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab8\Ex1.class -> lastModified(1602134800087)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\target\scala-2.12\classes\Lab9\Ex1$.class -> lastModified(1602134800091)
@@ -1360,8 +1373,8 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab4\GoodMood
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab4\HelloWorld.scala -> hash(013ae3e3c1ae53169b3b9d2e352cff8825dd7b6f)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\Ex1.scala -> hash(1399f92bbc84a365cc98e08a266822b2109bb229)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> hash(8ba5850d79ecef391cf040555f6c3b31e3501d08)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> hash(6f67f8690f19c018e3b0caeef5c3f57256b80d36)
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> hash(6af3818d381c3dd2d80cf437a55eacb93c732ccb)
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> hash(fc4242594a94be1c1c97b36fc611f878c2196a6e)
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> hash(00a09769e9727f6aa799bfa4c976e1f674c5da38)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> hash(fc3064c9bdfae9ef86af19f9f8986181bef5360b)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab9\Ex1.scala -> hash(097a39bdd124aa0e57e87d1f642429af5938904e)
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Test.scala -> hash(59ca4f73f6830f6eb8a3564ede941a26ff3b0507)
@@ -1374,8 +1387,8 @@ C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-l
 class names:
 3 items
 C:\Program Files\Java\jre1.8.0_261\lib\rt.jar -> java.lang.Object
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar -> com.cra.figaro.language.Universe
-C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar -> scala.Function3
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\com.cra.figaro\figaro_2.12\figaro_2.12-5.0.0.0.jar -> com.cra.figaro.language.Element$
+C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\lib_managed\jars\org.scala-lang\scala-library\scala-library-2.12.2.jar -> scala.Double
 internal apis:
 23 items
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab10\Ex1.scala -> 
@@ -1413,9 +1426,9 @@ rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBo
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab5\poker.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwDXXrMQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hws9el1HQABm5vdGlmeXNxAH4ADJ28k490AAR3YWl0c3EAfgAMTV8b6HQADSRhc0luc3RhbmNlT2ZzcQB+AAx7NqRWdAAGZXF1YWxzc3EAfgAMUs6vdHQADGFzSW5zdGFuY2VPZnNxAH4ADB8F0pl0AAxzeW5jaHJvbml6ZWRzcQB+AAyJ3iqmdAANJGlzSW5zdGFuY2VPZnNxAH4ADCAgKj90AARtYWluc3EAfgAM9JAZcHQACW5vdGlmeUFsbHNxAH4ADBiG3Ol0AAxpc0luc3RhbmNlT2ZzcQB+AAzA/BJqdAACPT1zcQB+AAwEUL85dAAFY2xvbmVzcQB+AAypX4m8dAAIdG9TdHJpbmdzcQB+AAz85XIqdAAEZXg0NHNxAH4ADAv+DA10AAIhPXNxAH4ADMJsWCx0AAhnZXRDbGFzc3NxAH4ADLs39eF0AAJuZXNxAH4ADPZRvxB0AAJlcXNxAH4ADMa6DRN0AAIjI3NxAH4ADLf7eGp0AAhmaW5hbGl6ZXNxAH4ADPYpbe90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAlMYWI1LmV4NDR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AZnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AbVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AXXNxAH4AbHQABUFycmF5cQB+AHJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AbHQABlN0cmluZ3NxAH4AcHNxAH4Ac3VxAH4AdgAAAANzcQB+AHh0AARqYXZhc3EAfgB4dAAEbGFuZ3EAfgB9c3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4AkQAAAAJzcQB+AGx0AAZPYmplY3RxAH4AlXNxAH4AbHQAA0FueXEAfgBydXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAETGFiNXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdXOYPH91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNQzpcVXNlcnNcQWRpXERlc2t0b3BcZmFjdWx0YXRlXFBNUC1DaW9jb2l1QWxleGFuZHJhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSLpYUNeezvORzwQFVfbDsx41AdCA==
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab6\Ex1.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwpSBojgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAxAuroXdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjYuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjZzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXUGrD/2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUb2f4aQ8ZwBjjsMru9cP1cla4DTY=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw0sysyQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpbQsBHQABm5vdGlmeXNxAH4ADJ7cYQ90AAR3YWl0c3EAfgAMAFDfbHQADSRhc0luc3RhbmNlT2ZzcQB+AAyinH74dAAGZXF1YWxzc3EAfgAM3iVC3HQADGFzSW5zdGFuY2VPZnNxAH4ADNBbOeB0AAxzeW5jaHJvbml6ZWRzcQB+AAxi3y8jdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ6Y88d0AAZ0ZW5uaXNzcQB+AAw574I/dAAEbWFpbnNxAH4ADC964aZ0AAlub3RpZnlBbGxzcQB+AAzG5jzRdAAMaXNJbnN0YW5jZU9mc3EAfgAM3Ht3aHQABGxhYjZzcQB+AAyxOfN0dAACPT1zcQB+AAw9Jb6bdAAFY2xvbmVzcQB+AAyfUOCsdAAIdG9TdHJpbmdzcQB+AAyF9CtVdAACIT1zcQB+AAxraVrddAAIZ2V0Q2xhc3NzcQB+AAxoNMaddAACbmVzcQB+AAxzHgjCdAACZXFzcQB+AAxHRJQzdAACIyNzcQB+AAynAWzPdAAIZmluYWxpemVzcQB+AAywfke2dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAJTGFiNi5sYWI2dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AH3VxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AX3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3VyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGh4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF9zcQB+AG50AAVBcnJheXEAfgB0dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AG50AAZTdHJpbmdzcQB+AHJzcQB+AHV1cQB+AHgAAAADc3EAfgB6dAAEamF2YXNxAH4AenQABGxhbmdxAH4Af3NxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AJMAAAACc3EAfgBudAAGT2JqZWN0cQB+AJdzcQB+AG50AANBbnlxAH4AdHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjZzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXW7Srb/dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/EJCWUqUvhwcl7NvxhH4eMIZam4=
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab7\Ex1.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPM1drQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAyCMyrmdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjcuRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXUGrD/2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUavOBjTgcPdLYDPQ3pV6suTxzLMs=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwciFvigAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAAc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHB0AARMYWI3c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF1u0q2/3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4AFUwAD3NvdXJjZURpcmVjdG9yeXEAfgAVeHB0AE1DOlxVc2Vyc1xBZGlcRGVza3RvcFxmYWN1bHRhdGVcUE1QLUNpb2NvaXVBbGV4YW5kcmFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFACgl2npcn9qp5m/pMl24fZ0xdo4
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab8\Ex1.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwuJCHzQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwC1bhInQABm5vdGlmeXNxAH4ADBk9bjV0AAR3YWl0c3EAfgAMXjn2/XQADSRhc0luc3RhbmNlT2ZzcQB+AAxKucOOdAAGZXF1YWxzc3EAfgAM1sPOFnQADGFzSW5zdGFuY2VPZnNxAH4ADJcmG3N0AAxzeW5jaHJvbml6ZWRzcQB+AAyYGSAvdAANJGlzSW5zdGFuY2VPZnNxAH4ADDadVzZ0AARtYWluc3EAfgAMKZYgEHQACW5vdGlmeUFsbHNxAH4ADIG2C5p0AAxpc0luc3RhbmNlT2ZzcQB+AAxPvSmedAACPT1zcQB+AAxXEdnEdAAFY2xvbmVzcQB+AAzojuYAdAAIdG9TdHJpbmdzcQB+AAzNJQkqdAADRXgxc3EAfgAMVbl/BXQAAiE9c3EAfgAMaQOLPHQACGdldENsYXNzc3EAfgAMMekUG3QAAm5lc3EAfgAMtCt8VnQAAmVxc3EAfgAMPRy5VHQAAiMjc3EAfgAML3VKKHQACGZpbmFsaXplc3EAfgAMtqfexXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQACExhYjguRXgxdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGZ4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFR0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AG1bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AF1zcQB+AGx0AAVBcnJheXEAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGx0AAZTdHJpbmdzcQB+AHBzcQB+AHN1cQB+AHYAAAADc3EAfgB4dAAEamF2YXNxAH4AeHQABGxhbmdxAH4AfXNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+AJEAAAACc3EAfgBsdAAGT2JqZWN0cQB+AJVzcQB+AGx0AANBbnlxAH4AcnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABExhYjhzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXUGrD/2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/DBkyb366e+Grxn5+Jhhgb71Ngs=
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\src\main\scala\Lab9\Ex1.scala -> 
@@ -1475,7 +1488,7 @@ AAAAAAAAAAA=
 C:\Users\Adi\Desktop\facultate\PMP-CiocoiuAlexandra\testSapt8-raspuns.scala -> 
 AAAAAAAAAAA=
 compilations:
-34 items
+35 items
 00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOF525F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkM6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVxGaWdhcm9Xb3JrXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
 01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOF66sl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdOGOV691cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAU0M6XFVzZXJzXENyaXN0aWFuU2ltaW9uZXNjdVxEZXNrdG9wXFRlYWNoaW5nXFBNUC1UZW1wbGF0ZVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
@@ -1510,3 +1523,4 @@ compilations:
 31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdXOJfhd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdXOX2CV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
 33 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdXOYPH91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
+34 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABdbtKtv91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATUM6XFVzZXJzXEFkaVxEZXNrdG9wXGZhY3VsdGF0ZVxQTVAtQ2lvY29pdUFsZXhhbmRyYVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABLw==
